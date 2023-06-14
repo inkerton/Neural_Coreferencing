@@ -11,3 +11,5 @@ Neural coreference resolution models usually involve various components, such as
   <li><b>Replacement:</b> For the last message in the conversation (or for all messages succeeding the first), replace the phrases in each cluster by the common word that gives the entire picture.</li>
   <li><b>Deployment:</b> Deploy the above setup as a part of ai-tools package such that it can be dockerized and then accessed through an API setup.</li>
 </ol>
+
+# Features already implemented
