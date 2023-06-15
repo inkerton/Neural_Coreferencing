@@ -1,6 +1,6 @@
-To train the program for a chatbot, you'll need to follow these steps:
-
-Define the chatbot's objective: Determine the specific purpose and goals of your chatbot. This will help guide the training process and ensure the chatbot is designed to meet those objectives.
+## To train the program for a chatbot, you'll need to follow these steps:
+<ol>
+  <li>Define the chatbot's objective: Determine the specific purpose and goals of your chatbot. This will help guide the training process and ensure the chatbot is designed to meet those objectives.</li>
 
 Collect and prepare training data: Gather a dataset of conversations or dialogue examples that cover a wide range of scenarios relevant to your chatbot's objective. Ensure the dataset includes a variety of questions, responses, and possible conversational flows. Preprocess the data by cleaning and organizing it for training.
 
