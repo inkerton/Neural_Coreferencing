@@ -1,5 +1,4 @@
-# Neural_Coreferencing
-<p align="right"> @C4GT'23 community program</p>
+# Neural_Coreferencing 
 Neural coreference resolution (overview) is a natural language processing (NLP) task that involves identifying when two or more words or phrases in a text refer to the same entity or concept. This process is crucial for understanding the context and meaning of a text, as it helps in resolving ambiguities and connecting different parts of a text.
 
 # How it works!!!
@@ -14,3 +13,4 @@ Neural coreference resolution models usually involve various components, such as
 </ol>
 
 # Features already implemented
+<p align="right"> @C4GT'23 community program</p>
